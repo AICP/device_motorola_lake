@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
     <item name="none">0</item>
-    <item name="screen.on">62.631</item>
-    <item name="screen.full">125.618</item>
+    <item name="screen.on.display0">62.631</item>
+    <item name="screen.full.display0">125.618</item>
     <item name="wifi.on">0.453</item>
     <item name="wifi.active">92.719</item>
     <item name="wifi.scan">4.375</item>
@@ -53,6 +53,7 @@
         <value>52.376</value>
         <value>56.840</value>
     </array>
+<<<<<<< HEAD
     <item name="cpu.cluster_power.cluster0">4.3</item>
     <item name="cpu.cluster_power.cluster1">11.97</item>
     <item name="cpu.idle">2.676</item>
@@ -60,3 +61,16 @@
     <item name="cpu.active">3.5</item>
     <item name="battery.capacity">3000</item>
 </device>
+=======
+<<<<<<< HEAD
+    <item name="cpu.idle">4.031</item>
+    <item name="cpu.awake">8.398</item>
+    <item name="battery.capacity">3200</item>
+</device>
+=======
+    <item name="cpu.awake">2.676</item>
+    <item name="cpu.idle">4.682</item>
+    <item name="battery.capacity">3000</item>
+</device>
+>>>>>>> e108922... beckham: overlay: Update deprecated screen power items
+>>>>>>> 3cd9ca6... evert: overlay: Update deprecated screen power items
